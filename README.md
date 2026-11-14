@@ -6,7 +6,7 @@ Tainá • Fortaleza/CE 📍
 Téc. em Desenvolvimento de Sistemas 
 Graduando em Análise e Desenvolvimento de Sistemas — UNINASSAU 
 
-🔗 LinkedIn: linkedin.com/in/Tainá Celine<br>
+🔗 LinkedIn: www.linkedin.com/in/tainá-rodrigues-327944333
 🔗 Portifólio:https://tainaceline.github.io/portifolio/
 
 ### 📦 Projetos em Destaque
