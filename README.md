@@ -55,7 +55,7 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=TainaCRodrigues&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Estatísticas" />
+
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TainaCRodrigues&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />
 
 <br/>
@@ -64,7 +64,6 @@
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=TainaCRodrigues&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Troféus" />
 
 </div>
 
