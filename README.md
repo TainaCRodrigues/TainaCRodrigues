@@ -70,12 +70,10 @@
 
 ### 📈 Gráfico de atividade
 
-### 📈 Resumo da atividade
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TainaCRodrigues&theme=tokyonight" alt="Resumo do perfil" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TainaCRodrigues&theme=tokyonight" alt="Repositórios por linguagem" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TainaCRodrigues&theme=tokyonight" alt="Linguagens com mais commits" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TainaCRodrigues&theme=tokyonight" alt="Estatísticas" width="49%" />
 </div>
 
