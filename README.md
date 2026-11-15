@@ -3,15 +3,15 @@
 <!-- Cabeçalho -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=[%20Tainá]&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=[%20Desenvolvedor%20Back%20End]&descAlignY=58&descSize=20" width="100%" alt="Cabeçalho"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=%20Tainá&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%20Desenvolvedora%20Back%20End &descAlignY=58&descSize=20" width="100%" alt="Cabeçalho"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+[SEU+NOME]+%F0%9F%91%8B;[SEU+CARGO];Apaixonado+por+código+limpo+e+boas+práticas;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+Tainá+%F0%9F%91%8B;Back End;Apaixonado+por+código+limpo+e+boas+práticas;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Visualizações do perfil](https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visualiza%C3%A7%C3%B5es&color=0e75b6&style=flat-square)
+![Visualizações do perfil](https://komarev.com/ghpvc/?username=TainaCRodrigues&label=Visualiza%C3%A7%C3%B5es&color=0e75b6&style=flat-square)
 ![Seguidores](https://img.shields.io/github/followers/SEU_USUARIO?label=Seguidores&style=flat-square&logo=github&color=0e75b6)
 ![Estrelas](https://img.shields.io/github/stars/SEU_USUARIO?label=Estrelas&style=flat-square&logo=github&color=0e75b6)
 
@@ -36,16 +36,16 @@
 <div align="center">
 
 ### Linguagens
-<img src="https://skillicons.dev/icons?i=python,go&theme=dark" alt="Linguagens" />
+<img src="https://skillicons.dev/icons?i=python" alt="Linguagens" />
 
 ### Front-end
-<img src="https://skillicons.dev/icons?i=html,css,sass&theme=dark" alt="Front-end" />
+<img src="https://skillicons.dev/icons?i=html,css" alt="Front-end" />
 
 ### Back-end e Bancos de Dados
-<img src="https://skillicons.dev/icons?i=django,postgres,fastapi,redis&theme=dark" alt="Back-end" />
+<img src="https://skillicons.dev/icons?i=django,postgres,fastapi" alt="Back-end" />
 
 ### DevOps, Cloud e Ferramentas
-<img src="https://skillicons.dev/icons?i=git,github,docker,figma&theme=dark" alt="Ferramentas" />
+<img src="https://skillicons.dev/icons?i=git,github,docker" alt="Ferramentas" />
 
 </div>
 
