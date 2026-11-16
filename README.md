@@ -83,8 +83,8 @@
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO/NOME-DO-REPO-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=NOME-DO-REPO-1&theme=tokyonight&hide_border=true" alt="Projeto 1" />
+<a href="https://github.com/TainaCRodrigues/Site-Pizzaria">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TainaCRodrigues&Site-Pizzaria-1&theme=tokyonight&hide_border=true" alt="Projeto 1" />
 </a>
 <a href="https://github.com/SEU_USUARIO/NOME-DO-REPO-2">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=NOME-DO-REPO-2&theme=tokyonight&hide_border=true" alt="Projeto 2" />
