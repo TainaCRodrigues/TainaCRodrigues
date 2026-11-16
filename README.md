@@ -29,17 +29,28 @@
 
 <div align="center">
 
-### Linguagens
-<img src="https://skillicons.dev/icons?i=python" alt="Linguagens" />
-
-### Front-end
-<img src="https://skillicons.dev/icons?i=html,css" alt="Front-end" />
-
-### Back-end e Bancos de Dados
-<img src="https://skillicons.dev/icons?i=django,postgres,fastapi" alt="Back-end" />
-
-### DevOps, Cloud e Ferramentas
-<img src="https://skillicons.dev/icons?i=git,github,docker" alt="Ferramentas" />
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>Linguagens</h3>
+      <img src="https://skillicons.dev/icons?i=python" />
+    </td>
+    <td align="center" width="50%">
+      <h3>Front-end</h3>
+      <img src="https://skillicons.dev/icons?i=html,css" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>Back-end e Bancos de Dados</h3>
+      <img src="https://skillicons.dev/icons?i=django,postgres,fastapi" />
+    </td>
+    <td align="center" width="50%">
+      <h3>DevOps, Cloud e Ferramentas</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,docker" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
