@@ -21,13 +21,7 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🔭 Atualmente trabalhando em **[PROJETO OU EMPRESA ATUAL]**
-- 🌱 Estudando **[TECNOLOGIA / ÁREA QUE ESTÁ APRENDENDO]**
-- 💼 [CARGO] na **[EMPRESA]** (ou: em busca de novas oportunidades)
-- 🎓 [Ánalise e Desenvolvimento de sistema] — [Uninassau]
-- 🎓 [Curso técnico em Desenvolvimento de Sistema] — [EEEP Professor César Campelo]
-- 📍 Baseado em **[Ceará]**
-- ⚡ Curiosidade: **[ALGO DIVERTIDO SOBRE VOCÊ]**
+- Sou estudante de Análise e Desenvolvimento de Sistemas na UNINASSAU, com formação técnica em Desenvolvimento de Sistemas. Tenho interesse em programação, principalmente no desenvolvimento backend, e estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. Atualmente, estudo Python, Django, FastAPI e banco de dados, desenvolvendo projetos para colocar meus conhecimentos em prática.
 
 ---
 
