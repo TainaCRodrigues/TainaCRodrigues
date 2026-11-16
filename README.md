@@ -41,7 +41,7 @@
   <tr>
     <td align="center" width="50%">
       <h3>Back-end</h3>
-      <img src="https://skillicons.dev/icons?i=django,postgres,fastapi,postgrees" />
+      <img src="https://skillicons.dev/icons?i=django,postgres,fastapi,PostgreSQL" />
     </td>
     <td align="center" width="50%">
       <h3>DevOps, Cloud e Ferramentas</h3>
