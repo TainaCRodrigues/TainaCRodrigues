@@ -40,8 +40,8 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <h3>Back-end e Bancos de Dados</h3>
-      <img src="https://skillicons.dev/icons?i=django,postgres,fastapi" />
+      <h3>Back-end</h3>
+      <img src="https://skillicons.dev/icons?i=django,postgres,fastapi,postgrees" />
     </td>
     <td align="center" width="50%">
       <h3>DevOps, Cloud e Ferramentas</h3>
